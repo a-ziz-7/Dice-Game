@@ -6,7 +6,7 @@
 
 .dicecnt {
   display: grid;
-  width: 100%;
+  width: 101%;
   grid-template-columns: 1fr 1fr;
 }
 
